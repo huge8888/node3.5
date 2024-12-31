@@ -1,0 +1,2 @@
+token,proxy1,proxy2,proxy3
+eyJ,http://user:pass@1.1.1.1:10808,http://user:pass@2.2.2.2:10808,http://user:pass@3.3.3.3:10808
